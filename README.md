@@ -12,13 +12,6 @@
   <img align="center" alt="Kainan-MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
   
-  
-  ### Atualmente adquirindo conhecimento
-  <div style="display: inline_block">
-  <br>
-  <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
-</div>
-  
   ##
  
 <div> 
